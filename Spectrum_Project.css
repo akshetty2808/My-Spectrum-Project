@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  font-family: 'Zeyada', cursive;
+}
+
+.art{
+  margin:auto;
+}
+
+td{
+  background-color: black;
+  height: 200px;
+  width: 100px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #12100E;
+}
+#two{
+  background-color: #30321C;
+}
+#three{
+  background-color: #4A4B2F;
+}
+#four{
+  background-color: #6B654B;
+}
+#five{
+  background-color: #D4DF9E;
+}
